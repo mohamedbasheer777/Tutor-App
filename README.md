@@ -30,7 +30,7 @@ scikit-learn, plotly, joblib.
 
 ## Run
     python -m streamlit run app.py
-Open http://localhost:8501 if the browser does not open automatically.
+Open https://tutor-app-slhczr4xwkqxjvcjqbvr9h.streamlit.app/ if the browser does not open automatically.
 
 ## Test
     python test_app.py
